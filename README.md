@@ -1,6 +1,6 @@
 # ChessGame
 
-## used features - > 
+## used features -> 
  > **sockets**
  > **chess.js** 
  > **cloud flare** 
